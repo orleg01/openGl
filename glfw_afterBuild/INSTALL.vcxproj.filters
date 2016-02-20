@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Orleg\Desktop\openGlSelfLearning\glfw_afterBuild\CMakeFiles\3580b76e8dc86a70ddaac40dfbee15ca\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B915B90A-0B21-38B9-84B1-A46B1838CC15}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

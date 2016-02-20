@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp-3.1.1/contrib/zlib/CMakeLists.txt
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckTypeSize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFile.c.in
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFile.c.in
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFile.c.in
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckTypeSize.c.in
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/CMakeFiles/CheckTypeSize/OFF64_T.c
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckFunctionExists.c
+C:/Program Files (x86)/CMake/share/cmake-3.4/Modules/CheckIncludeFile.c.in
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp-3.1.1/contrib/zlib/zlib.pc.cmakein
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp-3.1.1/contrib/zlib/zconf.h.cmakein

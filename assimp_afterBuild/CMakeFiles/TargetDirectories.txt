@@ -1,0 +1,8 @@
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/tools/assimp_view/CMakeFiles/assimp_viewer.dir
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/CMakeFiles/uninstall.dir
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/tools/assimp_cmd/CMakeFiles/assimp_cmd.dir
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/test/CMakeFiles/unit.dir
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/code/CMakeFiles/assimp.dir
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Orleg/Desktop/openGlSelfLearning/assimp_afterBuild/contrib/zlib/CMakeFiles/zlibstatic.dir
